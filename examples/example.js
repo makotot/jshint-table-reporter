@@ -1,5 +1,5 @@
-//var hoge = new String();
-//
-//foo = 10;
-//
-//function fuga ()
+var hoge = new String();
+
+foo = 10;
+
+function fuga ()
