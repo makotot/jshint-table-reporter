@@ -1,0 +1,23 @@
+{
+  "name": "jshint-table-reporter",
+  "version": "0.0.1",
+  "description": "jshint table reporter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+	"cli-color": "*",
+	"cli-table": "*"
+  },
+  "devDependencies": {
+	"jshint": "*"
+  },
+  "keywords": [
+    "jshint",
+	"reporter",
+	"table"
+  ],
+  "author": "makotot",
+  "license": "MIT"
+}
