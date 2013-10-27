@@ -1,9 +1,9 @@
-# JSHint table reporter
+# [JSHint Table Reporter](https://github.com/makotot/jshint-table-reporter)
 
 JSHint Table Reporter is a JSHint reporter displayed in table format.
 
 # Screenshot
-![screenshot](reporter_screenshot.png)
+![screenshot](./reporter_screenshot.png)
 
 ## Install
 

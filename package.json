@@ -1,6 +1,6 @@
 {
   "name": "jshint-table-reporter",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "jshint table reporter",
   "main": "index.js",
   "homepage": "https://github.com/makotot/jshint-table-reporter",
