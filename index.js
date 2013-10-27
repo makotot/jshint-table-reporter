@@ -5,7 +5,7 @@ module.exports = {
 
 	reporter: function (error) {
 
-		console.log(color.blue.underline('JSHint reporter\n'));
+		console.log(color.blue.underline('JSHint table reporter\n'));
 
 		if (error.length) {
 
