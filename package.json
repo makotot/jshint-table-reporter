@@ -1,6 +1,6 @@
 {
   "name": "jshint-table-reporter",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "jshint table reporter",
   "main": "index.js",
   "homepage": "https://github.com/makotot/jshint-table-reporter",
@@ -12,9 +12,7 @@
     "cli-table": "*"
   },
   "devDependencies": {
-    "jshint": "~2.3.0",
-    "cli-table": "~0.2.0",
-    "cli-color": "~0.2.3"
+    "jshint": "~2.3.0"
   },
   "keywords": [
     "jshint",
