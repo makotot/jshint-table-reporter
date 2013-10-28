@@ -3,6 +3,11 @@
   "version": "0.0.6",
   "description": "jshint table reporter",
   "main": "index.js",
+  "repository": {
+	"type": "git",
+	"url": "git://github.com/makotot/jshint-table-reporter.git"
+  },
+  "bugs": "https://github.com/makotot/jshint-table-reporter/issues",
   "homepage": "https://github.com/makotot/jshint-table-reporter",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
