@@ -1,8 +1,13 @@
 {
   "name": "jshint-table-reporter",
-  "version": "0.0.5",
+  "version": "0.0.7",
   "description": "jshint table reporter",
   "main": "index.js",
+  "repository": {
+	"type": "git",
+	"url": "git://github.com/makotot/jshint-table-reporter.git"
+  },
+  "bugs": "https://github.com/makotot/jshint-table-reporter/issues",
   "homepage": "https://github.com/makotot/jshint-table-reporter",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -12,9 +17,7 @@
     "cli-table": "*"
   },
   "devDependencies": {
-    "jshint": "~2.3.0",
-    "cli-table": "~0.2.0",
-    "cli-color": "~0.2.3"
+    "jshint": "~2.3.0"
   },
   "keywords": [
     "jshint",
