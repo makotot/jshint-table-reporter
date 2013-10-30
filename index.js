@@ -26,7 +26,7 @@ module.exports = {
 
 		} else {
 
-			console.log(color.green('No problem found.'));
+			console.log(color.green('✔  No problems found.'));
 
 		}
 

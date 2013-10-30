@@ -3,7 +3,12 @@
 JSHint Table Reporter is a JSHint reporter displayed in table format.
 
 # Screenshot
-![screenshot](./reporter_screenshot.png)
+
+### Porblems found.
+![problems](./reporter_problems.png)
+
+### No problems found.
+![no problems](./reporter_no_problems.png)
 
 ## Install
 
