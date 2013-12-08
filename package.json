@@ -1,6 +1,6 @@
 {
   "name": "jshint-table-reporter",
-  "version": "0.0.7",
+  "version": "0.1.0",
   "description": "jshint table reporter",
   "main": "index.js",
   "repository": {
@@ -9,20 +9,22 @@
   },
   "bugs": "https://github.com/makotot/jshint-table-reporter/issues",
   "homepage": "https://github.com/makotot/jshint-table-reporter",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "dependencies": {
     "cli-color": "*",
     "cli-table": "*"
   },
   "devDependencies": {
-    "jshint": "~2.3.0"
+    "jshint": "*",
+	"grunt": "*",
+	"grunt-contrib-jshint": "*",
+	"load-grunt-tasks": "*"
   },
   "keywords": [
     "jshint",
     "reporter",
-    "table"
+    "table",
+	"grunt",
+	"cli"
   ],
   "author": "makotot",
   "license": "MIT"
